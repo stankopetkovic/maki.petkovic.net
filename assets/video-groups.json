@@ -99,8 +99,8 @@
       },
       {
         "name": "Epizoda 4",
-        "image": "b7wshUy7xLk",
-        "url": "b7wshUy7xLk?autoplay=1",
+        "image": "bFbr4tANcpM",
+        "url": "bFbr4tANcpM?autoplay=1",
         "description": "Epizoda 4"
       },
       {
@@ -285,44 +285,44 @@
     "videos": [
       {
         "name": "Epizoda 1",
-        "image": "-1aq_8JDDOw",
-        "url": "-1aq_8JDDOw?autoplay=1",
+        "image": "4-5M8tPJXqo",
+        "url": "4-5M8tPJXqo?autoplay=1",
         "description": "Epizoda 1"
       },
       {
         "name": "Epizoda 2",
-        "image": "COU11-a1jbM",
-        "url": "COU11-a1jbM?autoplay=1",
+        "image": "WlTul_lh2bU",
+        "url": "WlTul_lh2bU?autoplay=1",
         "description": "Epizoda 2"
       },
       {
         "name": "Epizoda 3",
-        "image": "eJqDkmIspXs",
-        "url": "eJqDkmIspXs?autoplay=1",
+        "image": "YJ-TCl4PDdk",
+        "url": "YJ-TCl4PDdk?autoplay=1",
         "description": "Epizoda 3"
       },
       {
         "name": "Epizoda 4",
-        "image": "qQkdHwDYEUw",
-        "url": "qQkdHwDYEUw?autoplay=1",
+        "image": "44gOBLoTMos",
+        "url": "44gOBLoTMos?autoplay=1",
         "description": "Epizoda 4"
       },
       {
         "name": "Epizoda 5",
-        "image": "f-Iz7Op1rus",
-        "url": "f-Iz7Op1rus?autoplay=1",
+        "image": "4WNkbwkkeRo",
+        "url": "4WNkbwkkeRo?autoplay=1",
         "description": "Epizoda 5"
       },
       {
         "name": "Epizoda 6",
-        "image": "M9T6VseKdF0",
-        "url": "M9T6VseKdF0?autoplay=1",
+        "image": "W9gVjgvRIPo",
+        "url": "W9gVjgvRIPo?autoplay=1",
         "description": "Epizoda 6"
       },
       {
         "name": "Epizoda 7",
-        "image": "JyDPGIpa_Kg",
-        "url": "JyDPGIpa_Kg?autoplay=1",
+        "image": "E9mDxNrrGU4",
+        "url": "E9mDxNrrGU4?autoplay=1",
         "description": "Epizoda 7"
       }
     ]
@@ -343,12 +343,6 @@
         "image": "pZeDx_X6rzg",
         "url": "pZeDx_X6rzg?autoplay=1",
         "description": "Sovinisticka Farsa 2"
-      },
-      {
-        "name": "Sovinisticka Frasa 3",
-        "image": "vROB8DFppZU",
-        "url": "vROB8DFppZU?autoplay=1",
-        "description": "Sovinisticka Farsa 3"
       }
     ]
   },
@@ -427,64 +421,118 @@
   "videos": [
     {
       "name": "Epizoda 1",
-      "image": "qDVmY7cuzZM",
-      "url": "qDVmY7cuzZM?autoplay=1",
+      "image": "cPvJtcgw_dQ",
+      "url": "cPvJtcgw_dQ?autoplay=1",
       "description": "Epizoda 1"
     },
     {
       "name": "Epizoda 2",
-      "image": "NifR7Zq7lXI",
-      "url": "NifR7Zq7lXI?autoplay=1",
+      "image": "tvv53RMHM4I",
+      "url": "tvv53RMHM4I?autoplay=1",
       "description": "Epizoda 2"
     },
     {
       "name": "Epizoda 3",
-      "image": "NPMW-614alA",
-      "url": "NPMW-614alA?autoplay=1",
+      "image": "bFbfGQYbUwQ",
+      "url": "bFbfGQYbUwQ?autoplay=1",
       "description": "Epizoda 3"
     },
     {
       "name": "Epizoda 4",
-      "image": "KIUQkxsRWiA",
-      "url": "KIUQkxsRWiA?autoplay=1",
+      "image": "nYEzPBcgcis",
+      "url": "nYEzPBcgcis?autoplay=1",
       "description": "Epizoda 4"
     },
     {
       "name": "Epizoda 5",
-      "image": "xw-LJv7ZJzo",
-      "url": "xw-LJv7ZJzo?autoplay=1",
+      "image": "HmhdkFDcLaI",
+      "url": "HmhdkFDcLaI?autoplay=1",
       "description": "Epizoda 5"
     },
     {
       "name": "Epizoda 6",
-      "image": "3Ar9lvh-54E",
-      "url": "3Ar9lvh-54E?autoplay=1",
+      "image": "txccQU27Bxc",
+      "url": "txccQU27Bxc?autoplay=1",
       "description": "Epizoda 6"
     },
     {
       "name": "Epizoda 7",
-      "image": "ZN6c-4iUahE",
-      "url": "ZN6c-4iUahE?autoplay=1",
+      "image": "2nFPF-XC6EM",
+      "url": "2nFPF-XC6EM?autoplay=1",
       "description": "Epizoda 7"
     },
     {
       "name": "Epizoda 8",
-      "image": "q0bg8w346j0",
-      "url": "q0bg8w346j0?autoplay=1",
+      "image": "cHF4UtUgd3c",
+      "url": "cHF4UtUgd3c?autoplay=1",
       "description": "Epizoda 8"
     },
     {
       "name": "Epizoda 9",
-      "image": "xduYXDCgB04",
-      "url": "xduYXDCgB04?autoplay=1",
+      "image": "0LnvNYjkwmM",
+      "url": "0LnvNYjkwmM?autoplay=1",
       "description": "Epizoda 9"
     },
     {
       "name": "Epizoda 10",
-      "image": "-zgURV070kw",
-      "url": "-zgURV070kw?autoplay=1",
+      "image": "JDRcp9j3YGo",
+      "url": "JDRcp9j3YGo?autoplay=1",
       "description": "Epizoda 10"
-    }
+    },
+    {
+      "name": "Epizoda 11",
+      "image": "-vlqB3QHOAw",
+      "url": "-vlqB3QHOAw?autoplay=1",
+      "description": "Epizoda 11"
+    },
+    {
+      "name": "Epizoda 12",
+      "image": "Yw866hgJGCo",
+      "url": "Yw866hgJGCo?autoplay=1",
+      "description": "Epizoda 12"
+    },
+    {
+      "name": "Epizoda 13",
+      "image": "icgWCxyJW0E",
+      "url": "icgWCxyJW0E?autoplay=1",
+      "description": "Epizoda 13"
+    },
+    {
+      "name": "Epizoda 14",
+      "image": "_mGejMVlD08",
+      "url": "_mGejMVlD08?autoplay=1",
+      "description": "Epizoda 14"
+    },
+    {
+      "name": "Epizoda 15",
+      "image": "uAs-XgkBDRQ",
+      "url": "uAs-XgkBDRQ?autoplay=1",
+      "description": "Epizoda 15"
+    },
+    {
+      "name": "Epizoda 16",
+      "image": "6BuzqmrH33E",
+      "url": "6BuzqmrH33E?autoplay=1",
+      "description": "Epizoda 16"
+    },
+    {
+      "name": "Epizoda 17",
+      "image": "jJOST8ovAuI",
+      "url": "jJOST8ovAuI?autoplay=1",
+      "description": "Epizoda 17"
+    },
+    {
+      "name": "Epizoda 18",
+      "image": "CXalE-57bt0",
+      "url": "CXalE-57bt0?autoplay=1",
+      "description": "Epizoda 18"
+    },
+    {
+      "name": "Epizoda 19",
+      "image": "JfHSP3mTNdk",
+      "url": "JfHSP3mTNdk?autoplay=1",
+      "description": "Epizoda 19"
+    },
   ]
 },
   {
