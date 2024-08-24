@@ -366,6 +366,56 @@
     ]
   },
   {
+    "id": "otvorena_vrata_2",
+    "name": "Serija Otvorena Vrata 2",
+    "description": "Serija Otvorena Vrata 2",
+    "thumbnail": "assets/img/otvorena_vrata_2.jpg",
+    "videos": [
+      {
+        "name": "Epizoda 1",
+        "image": "ouVCtHg2vSM",
+        "url": "ouVCtHg2vSM?autoplay=1",
+        "description": "Epizoda 1"
+      },
+      {
+        "name": "Epizoda 2",
+        "image": "l1YyommzuXw",
+        "url": "l1YyommzuXw?autoplay=1",
+        "description": "Epizoda 2"
+      },
+      {
+        "name": "Epizoda 3",
+        "image": "gQ8Ii-riXbc",
+        "url": "gQ8Ii-riXbc?autoplay=1",
+        "description": "Epizoda 3"
+      },
+      {
+        "name": "Epizoda 4",
+        "image": "eYU_zIt1bHY",
+        "url": "eYU_zIt1bHY?autoplay=1",
+        "description": "Epizoda 4"
+      },
+      {
+        "name": "Epizoda 5",
+        "image": "6LMbC5lKj8M",
+        "url": "6LMbC5lKj8M?autoplay=1",
+        "description": "Epizoda 5"
+      },
+      {
+        "name": "Epizoda 6",
+        "image": "QXUR4jv5vGE",
+        "url": "QXUR4jv5vGE?autoplay=1",
+        "description": "Epizoda 6"
+      },
+      {
+        "name": "Epizoda 7",
+        "image": "hxpDuIj7quQ",
+        "url": "hxpDuIj7quQ?autoplay=1",
+        "description": "Epizoda 7"
+      }
+    ]
+  },
+  {
     "id": "indexovo_pozoriste",
     "name": "Indexovo Pozoriste",
     "description": "Indexovo Pozoriste",
