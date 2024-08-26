@@ -806,60 +806,6 @@
         "description": "Radovan Treci"
       },
       {
-        "name": "Bulevar Revolucije",
-        "image": "KxFKJ760VcI",
-        "url": "KxFKJ760VcI?autoplay=1",
-        "description": "Bulevar Revolucijea"
-      },
-      {
-        "name": "Kad porastem bicu kengur",
-        "image": "W0KxKFJaESw",
-        "url": "W0KxKFJaESw?autoplay=1",
-        "description": "Kad porastem bicu kengur"
-      },
-      {
-        "name": "Nebeska Udica",
-        "image": "nng39-XwS78",
-        "url": "nng39-XwS78?autoplay=1",
-        "description": "Nebeska udica"
-      },
-      {
-        "name": "Lepa sela, lepo gore",
-        "image": "3CI1OWhWa_E",
-        "url": "3CI1OWhWa_E?autoplay=1",
-        "description": "Lepa sela, lepo gore"
-      },
-      {
-        "name": "Apsolutnih sto",
-        "image": "lUh5S2ynDic",
-        "url": "lUh5S2ynDic?autoplay=1",
-        "description": "Apsolutnih sto"
-      },
-      {
-        "name": "Klopka",
-        "image": "y8JINNtGoQ0",
-        "url": "y8JINNtGoQ0?autoplay=1",
-        "description": "Klopka"
-      },
-      {
-        "name": "Guca",
-        "image": "7UyIQmDwdfo",
-        "url": "7UyIQmDwdfo?autoplay=1",
-        "description": "Guca"
-      },
-      {
-        "name": "Prolece na poslednjem jezeru",
-        "image": "900wpSm8nTI",
-        "url": "900wpSm8nTI?autoplay=1",
-        "description": "Prolece na poslednjem jezeru"
-      },
-      {
-        "name": "Ptice koje ne polete",
-        "image": "CRxUGUztWws",
-        "url": "CRxUGUztWws?autoplay=1",
-        "description": "Ptice koje ne polete"
-      },
-      {
         "name": "Gospodja Ministarka",
         "image": "BsyQTFTRlww",
         "url": "BsyQTFTRlww?autoplay=1",
@@ -948,6 +894,202 @@
         "image": "mp49rBTL2rA",
         "url": "mp49rBTL2rA?autoplay=1",
         "description": "Razvojni put Bore Snajdera"
+      }
+    ]
+  },
+  {
+    "id": "filmovi",
+    "name": "Filmovi",
+    "description": "Filmovi",
+    "thumbnail": "assets/img/film.jpg",
+    "videos": [
+      {
+        "name": "Bulevar Revolucije",
+        "image": "KxFKJ760VcI",
+        "url": "KxFKJ760VcI?autoplay=1",
+        "description": "Bulevar Revolucijea"
+      },
+      {
+        "name": "Kad porastem bicu kengur",
+        "image": "W0KxKFJaESw",
+        "url": "W0KxKFJaESw?autoplay=1",
+        "description": "Kad porastem bicu kengur"
+      },
+      {
+        "name": "Nebeska Udica",
+        "image": "nng39-XwS78",
+        "url": "nng39-XwS78?autoplay=1",
+        "description": "Nebeska udica"
+      },
+      {
+        "name": "Lepa sela, lepo gore",
+        "image": "3CI1OWhWa_E",
+        "url": "3CI1OWhWa_E?autoplay=1",
+        "description": "Lepa sela, lepo gore"
+      },
+      {
+        "name": "Apsolutnih sto",
+        "image": "lUh5S2ynDic",
+        "url": "lUh5S2ynDic?autoplay=1",
+        "description": "Apsolutnih sto"
+      },
+      {
+        "name": "Klopka",
+        "image": "y8JINNtGoQ0",
+        "url": "y8JINNtGoQ0?autoplay=1",
+        "description": "Klopka"
+      },
+      {
+        "name": "Guca",
+        "image": "7UyIQmDwdfo",
+        "url": "7UyIQmDwdfo?autoplay=1",
+        "description": "Guca"
+      },
+      {
+        "name": "Prolece na poslednjem jezeru",
+        "image": "900wpSm8nTI",
+        "url": "900wpSm8nTI?autoplay=1",
+        "description": "Prolece na poslednjem jezeru"
+      },
+      {
+        "name": "Ptice koje ne polete",
+        "image": "CRxUGUztWws",
+        "url": "CRxUGUztWws?autoplay=1",
+        "description": "Ptice koje ne polete"
+      },
+      {
+        "name": "Rane",
+        "image": "BZkpcodz-1g",
+        "url": "BZkpcodz-1g?autoplay=1",
+        "description": "Rane"
+      }
+    ]
+  },
+  {
+    "id": "istineilazi",
+    "name": "Istine i Lazi",
+    "description": "Istine i Lazi",
+    "thumbnail": "assets/img/istine-i-lazi.jpg",
+    "videos": [
+      {
+        "name": "Epizoda 1",
+        "image": "c7sqAePIXo",
+        "url": "c7sqAePIXo?autoplay=1",
+        "description": "Epizoda 1"
+      },
+      {
+        "name": "Epizoda 2",
+        "image": "dY4wnodw6O0",
+        "url": "dY4wnodw6O0?autoplay=1",
+        "description": "Epizoda 2"
+      },
+      {
+        "name": "Epizoda 3",
+        "image": "kPwtxhwkdUI",
+        "url": "kPwtxhwkdUI?autoplay=1",
+        "description": "Epizoda 3"
+      },
+      {
+        "name": "Epizoda 4",
+        "image": "Ro9fJN_4zRk",
+        "url": "Ro9fJN_4zRk?autoplay=1",
+        "description": "Epizoda 4"
+      },
+      {
+        "name": "Epizoda 5",
+        "image": "e_qOJcVWhEo",
+        "url": "e_qOJcVWhEo?autoplay=1",
+        "description": "Epizoda 5"
+      },
+      {
+        "name": "Epizoda 6",
+        "image": "nijObOQWo0M",
+        "url": "nijObOQWo0M?autoplay=1",
+        "description": "Epizoda 6"
+      },
+      {
+        "name": "Epizoda 7",
+        "image": "dj9vn0gZC0g",
+        "url": "dj9vn0gZC0g?autoplay=1",
+        "description": "Epizoda 7"
+      },
+      {
+        "name": "Epizoda 8",
+        "image": "339uYOrDbOo",
+        "url": "339uYOrDbOo?autoplay=1",
+        "description": "Epizoda 8"
+      },
+      {
+        "name": "Epizoda 9",
+        "image": "2EsPlJwawqk",
+        "url": "2EsPlJwawqk?autoplay=1",
+        "description": "Epizoda 9"
+      },
+      {
+        "name": "Epizoda 10",
+        "image": "SPrTVGmYBlM",
+        "url": "SPrTVGmYBlM?autoplay=1",
+        "description": "Epizoda 10"
+      },
+      {
+        "name": "Epizoda 11",
+        "image": "ykiUN4pLOcg",
+        "url": "ykiUN4pLOcg?autoplay=1",
+        "description": "Epizoda 11"
+      },
+      {
+        "name": "Epizoda 12",
+        "image": "dxae4nv-y7M",
+        "url": "dxae4nv-y7M?autoplay=1",
+        "description": "Epizoda 12"
+      },
+      {
+        "name": "Epizoda 13",
+        "image": "VhNnZVV_hl8",
+        "url": "VhNnZVV_hl8?autoplay=1",
+        "description": "Epizoda 13"
+      },
+      {
+        "name": "Epizoda 14",
+        "image": "S4EvfxNzBGA",
+        "url": "S4EvfxNzBGA?autoplay=1",
+        "description": "Epizoda 14"
+      },
+      {
+        "name": "Epizoda 15",
+        "image": "_G4wiaBKwbQ",
+        "url": "_G4wiaBKwbQ?autoplay=1",
+        "description": "Epizoda 15"
+      },
+      {
+        "name": "Epizoda 16",
+        "image": "s6s8s-80Dwo",
+        "url": "s6s8s-80Dwo?autoplay=1",
+        "description": "Epizoda 16"
+      },
+      {
+        "name": "Epizoda 17",
+        "image": "kJT8u3kD2e8",
+        "url": "kJT8u3kD2e8?autoplay=1",
+        "description": "Epizoda 17"
+      },
+      {
+        "name": "Epizoda 18",
+        "image": "FXWThjzB7Sc",
+        "url": "FXWThjzB7Sc?autoplay=1",
+        "description": "Epizoda 18"
+      },
+      {
+        "name": "Epizoda 19",
+        "image": "H3a7klcICbI",
+        "url": "H3a7klcICbI?autoplay=1",
+        "description": "Epizoda 19"
+      },
+      {
+        "name": "Epizoda 20",
+        "image": "CCHjIuNv5Kk",
+        "url": "CCHjIuNv5Kk?autoplay=1",
+        "description": "Epizoda 20"
       }
     ]
   }
