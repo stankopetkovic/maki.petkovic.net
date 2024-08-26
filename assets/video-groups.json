@@ -19,8 +19,8 @@
       },
       {
         "name": "Album Rani Mraz",
-        "image": "8YdWz9Xcv0Q",
-        "url": "videoseries?list=OLAK5uy_ll10iChNae1U0XvVIpGLuG6XmmnaKvRy8&autoplay=1",
+        "image": "BD1gU-U4SRo",
+        "url": "videoseries?list=OLAK5uy_lD7hfK1ol5mHEvYT09z2QzB3ELAzNPFUE&autoplay=1",
         "description": "Album Djordja Balasevica: Kao Rani Mraz"
       },
       {
@@ -65,10 +65,16 @@
         "url": "VSdBn2eWq9g?autoplay=1",
         "description": "Koncert || Sava Centar || 2. deo"
       },
-      {
+     {
         "name": "Koncert Sava Centar 1989",
         "image": "8ydi2H6nc_M",
         "url": "8ydi2H6nc_M?autoplay=1",
+        "description": "Koncert || Sava Centar || 1989"
+      },
+      {
+        "name": "Koncert Sava Centar 1989",
+        "image": "qrjN9Px0Ph4",
+        "url": "qrjN9Px0Ph4?autoplay=1",
         "description": "Koncert || Sava Centar || 1989"
       }
     ]
